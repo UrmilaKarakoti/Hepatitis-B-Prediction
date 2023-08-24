@@ -14,7 +14,7 @@ Machine Learning: We employed various machine learning techniques to build predi
 To get started with the project, follow these steps:
 
 **Clone the Repository:** Start by cloning this repository to your local machine using the following command:
-git clone https://github.com/your-username/hepatitis-b-ml-project.git
+git clone https://github.com/UrmilaKarakoti/Hepatitis-B-Prediction/edit/main/README.md
 
 **Install Dependencies:** Navigate to the project directory and install the required dependencies. You might want to create a virtual environment before installing dependencies.
 cd hepatitis-b-ml-project
